@@ -1,0 +1,9 @@
+{
+  "releases": [
+    {
+      "version": "1.0.1",
+      "date": "2025-08-14",
+      "notes": "Updated email, version bump to 1.0.1, cross-platform compatibility"
+    }
+  ]
+}

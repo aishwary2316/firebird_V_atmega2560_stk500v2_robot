@@ -1,36 +1,28 @@
 {
   "packages": [
     {
-      "name": "firebird",
+      "name": "Firebird",
       "maintainer": "Aishwary Raj",
-      "websiteURL": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot",
-      "email": "aishwary2316@users.noreply.github.com",
-      "help": {
-        "online": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot"
-      },
+      "email": "aishwary2316@outlook.com",
+      "websiteURL": "https://aishtrex.com",
       "platforms": [
         {
-          "name": "Firebird AVR",
+          "name": "Firebird AVR Boards",
           "architecture": "avr",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot/packages/firebird/avr/1.0.0/firebird-avr-1.0.0.zip",
-          "archiveFileName": "firebird-avr-1.0.0.zip",
-          "checksum": "SHA-256:8d51c47aaae707e98169490fb0c180750fcf1976ac6435696d86e32d1563bdfb",
-          "size": 1952,
+          "version": "1.0.1",
+          "category": "Arduino",
+          "url": "https://yourgithubusername.github.io/firebird/firebird-1.0.1.zip",
+          "archiveFileName": "firebird-1.0.1.zip",
+          "checksum": "SHA-256:9141bb2617e244e45e549308138e561bbe9a6b6e15dad2a64bf3f03a17819292",
+          "size": "1314",
           "boards": [
             {
-              "name": "Firebird V Mega 2560 Robot (stk500v2)",
-              "build": {
-                "mcu": "atmega2560"
-              },
-              "system": "arduino:avr"
+              "name": "Firebird Board"
             }
           ],
           "toolsDependencies": []
         }
-      ],
-      "tools": []
+      ]
     }
   ]
 }
