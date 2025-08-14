@@ -1,0 +1,10 @@
+{
+  "name": "firebird-avr",
+  "version": "1.0.0",
+  "date": "2025-08-14",
+  "archiveFileName": "firebird-avr-1.0.0.zip",
+  "checksum": "SHA-256:8d51c47aaae707e98169490fb0c180750fcf1976ac6435696d86e32d1563bdfb",
+  "size": 1952,
+  "releaseNotes": "Initial release: Firebird V Mega 2560 Robot (stk500v2) board package.",
+  "maintainer": "Aishwary Raj"
+}
