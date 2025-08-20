@@ -3,7 +3,7 @@
     {
       "name": "firebird",
       "maintainer": "Aishwary Raj",
-      "websiteURL": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot",
+      "websiteURL": "https://aishtrex.com",
       "email": "aishwary2316@outlook.com",
       "help": {
         "online": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot"
@@ -15,7 +15,7 @@
           "version": "1.0.1",
           "system": "arduino:avr",
           "category": "Contributed",
-          "url": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot/packages/firebird/avr/1.0.1/firebird-avr-1.0.1.zip",
+          "url": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot/releases/1.0.1/firebird-avr-1.0.1.zip",
           "archiveFileName": "firebird-avr-1.0.1.zip",
           "checksum": "SHA-256:b6983cdb7778e513db6489bacac2ac7e66c4e33cd4e11d66ff46c927b1052cf4",
           "size": 1498,
@@ -32,10 +32,27 @@
           "version": "1.0.2",
           "system": "arduino:avr",
           "category": "Contributed",
-          "url": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot/packages/firebird/avr/1.0.2/firebird-avr-1.0.2.zip",
+          "url": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot/releases/1.0.2/firebird-avr-1.0.2.zip",
           "archiveFileName": "firebird-avr-1.0.2.zip",
           "checksum": "SHA-256:686eebbe483aab5ab77e4d357384bbbe19b53ea5e1a2f716a48331d3fd47a953",
           "size": 1498,
+          "boards": [
+            {
+              "name": "Firebird V Mega 2560 Robot (stk500v2)"
+            }
+          ],
+          "toolsDependencies": []
+        },
+        {
+          "name": "Firebird AVR",
+          "architecture": "avr",
+          "version": "1.0.3",
+          "system": "arduino:avr",
+          "category": "Contributed",
+          "url": "https://aishwary2316.github.io/firebird_V_atmega2560_stk500v2_robot/releases/1.0.3/firebird.zip",
+          "archiveFileName": "firebird.zip",
+          "checksum": "SHA-256:8661F709AD05A9BEE621C73A09E878CCDE9F8B2C8AD96C50BC230D9E60A2528F",
+          "size": 126391,
           "boards": [
             {
               "name": "Firebird V Mega 2560 Robot (stk500v2)"

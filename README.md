@@ -1,9 +1,15 @@
-Firebird AVR Boards Manager bundle (1.0.1 and 1.0.2)
+Firebird AVR Boards Manager bundle 
+**Latest release: Version 1.0.3**
 # Firebird V Mega 2560 Robot (stk500v2) Arduino Boards Package
 
 **By: Aishwary Raj**
 
 This package adds support for the **Firebird V Mega 2560 Robot (stk500v2)** board to the Arduino IDE via Boards Manager. It configures the board to upload using the STK500v2 protocol and the NEX-USB-ISP programmer used in the lab.
+
+**Please Note: Avoid using version 1.0.1 and 1.0.2**
+**Make sure to use the latest version**
+
+
 
 Included files:
 - `hardware/firebird/avr/boards.txt`
@@ -18,7 +24,11 @@ Local installation (quick test):
    - macOS: `~/Documents/Arduino/hardware/firebird/avr/`
 2. Restart Arduino IDE.
 3. Select **Tools → Board → Firebird V Mega 2560 Robot (stk500v2)**.
-4. Use **Sketch → Upload Using Programmer** (or Upload) to flash via NEX-USB-ISP.
+4. Select **Tools → Programmer → Atmel STK500v2 (NEX-USB-ISP)**
+5. Use the **Verify** button to compile the sketch
+6. Use the **Upload** button to upload the code to the bot using STK500v2 (NEX-USB-ISP) programmer
+7. OR use **Sketch → Upload Using Programmer** (or Upload) to flash via NEX-USB-ISP.
+**You may also use the "Sketch → Export Compiled Binary" to export the hex file**
 
 Boards Manager installation (recommended):
 1. Host `package_index.json` and the inner ZIP on GitHub Pages (see instructions).

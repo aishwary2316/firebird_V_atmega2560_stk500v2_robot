@@ -1,0 +1,10 @@
+{
+  "name": "firebird-avr",
+  "version": "1.0.3",
+  "date": "2025-08-21",
+  "archiveFileName": "firebird.zip",
+  "checksum": "SHA-256:8661F709AD05A9BEE621C73A09E878CCDE9F8B2C8AD96C50BC230D9E60A2528F",
+  "size": 126391,
+  "releaseNotes": "Release 1.0.3",
+  "maintainer": "Aishwary Raj"
+}
